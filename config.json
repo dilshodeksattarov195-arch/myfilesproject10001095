@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "orderpync",
+        "uuid": 3786510,
+        "checksum": "0s6pnn"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "production"
+    }
+}
